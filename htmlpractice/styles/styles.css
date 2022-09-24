@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+nav {
+    background-color: steelblue;
+    padding:10px;
+}
+a {
+    color: white;
+    margin:40px;
+}
+p { 
+    padding:10x;
+}
+footer {
+    background-color: steelblue;
+    color: white;
+}
