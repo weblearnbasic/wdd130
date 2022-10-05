@@ -36,3 +36,8 @@ img {
     display: block;
     margin: 0 auto;
 }
+nav,footer {
+    background-color: steelblue;
+    color: white;
+    padding: 10px;
+}
