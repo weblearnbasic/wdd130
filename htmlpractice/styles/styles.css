@@ -19,8 +19,12 @@ a {
 }
 p { 
     padding:10x;
+    width: 80%;
 }
 footer {
     background-color: steelblue;
     color: white;
+}
+img {
+    width: 80%;
 }
