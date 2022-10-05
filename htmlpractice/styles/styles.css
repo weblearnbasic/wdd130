@@ -1,4 +1,4 @@
-body {
+h1 {
     text-align: center;
 }
 .main-para {
@@ -12,6 +12,7 @@ body {
 nav {
     background-color: steelblue;
     padding:10px;
+    text-align: center;
 }
 a {
     color: white;
@@ -25,7 +26,11 @@ p {
 footer {
     background-color: steelblue;
     color: white;
+    text-align: center;
 }
 img {
-    width: 30%;
+    width: 80%;
+}
+* {
+    border:  2px solid blue;
 }
