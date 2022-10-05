@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+p1 {
+    text-align:center;
+}
+p2, p3, p4, p5 {
+    text-align: center;
+}
+img {
+    width:30%;
+    display: block;
+    margin: 0 auto;
+}
