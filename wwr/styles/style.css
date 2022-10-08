@@ -19,13 +19,13 @@ main section {
 }
 #background {
     height: 725px;
-    background-color: #ffffff;
+    background-color: #CC9562;
 }
 body {
     background-color: #62b6cb;
 }
 header {
-    background-color: #cae9ff;
+    background-color: #307080;
 }
 nav a:hover {
     background-color: #cae9ff;
@@ -34,11 +34,11 @@ nav a:hover {
     background-color: #62b6cb;
 }
 .book:hover, join:hover {
-    background-color: #5fa8d3;
+    background-color: #62b6cb;
 }
 .msg {
     background-color: #62b6cb;
 }
 footer { 
-    background-color: #cae9ff;
+    background-color: #CC9562;
 }
