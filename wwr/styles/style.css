@@ -17,3 +17,28 @@ nav a {
 main section {
     text-align:center;
 }
+#background {
+    height: 725px;
+    background-color: #ffffff;
+}
+body {
+    background-color: #62b6cb;
+}
+header {
+    background-color: #cae9ff;
+}
+nav a:hover {
+    background-color: #ffffff;
+}
+.book, .join {
+    background-color: #ffffff;
+}
+.book:hover, join:hover {
+    background-color: #5fa8d3;
+}
+.msg {
+    background-color: #62b6cb;
+}
+footer { 
+    background-color: #000000;
+}
