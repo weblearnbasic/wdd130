@@ -23,7 +23,7 @@ main section {
     background-color: #CC9562;
 }
 body {
-    background-color: #62b6cb;
+    background-color: white;
 }
 header {
     background-color: #307080;
@@ -43,7 +43,7 @@ nav a:hover {
     background-color: #62b6cb;
 }
 footer { 
-    background-color: #CC9562;
+    background-color: #62b6cb;
     color: white
 }
 .home-title {
