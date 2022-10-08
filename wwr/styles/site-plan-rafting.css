@@ -6,9 +6,11 @@ Fonts are separated by a & */
 :root {
   /* change the values below to your colors from your palette */
   --primary-color: #62b6cb   ;
-  --secondary-color: #1b4965 ;
-  --accent1-color: #cae9ff;
-  --accent2-color: #5fa8d3;
+  --secondary-color: #CC9562 ;
+  --accent1-color: #9AEAFF;
+  --accent2-color: #805024;
+  --accent3-color: #307080;
+  
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Black Ops One";
