@@ -28,10 +28,10 @@ header {
     background-color: #cae9ff;
 }
 nav a:hover {
-    background-color: #ffffff;
+    background-color: #cae9ff;
 }
 .book, .join {
-    background-color: #ffffff;
+    background-color: #cae9ff;
 }
 .book:hover, join:hover {
     background-color: #5fa8d3;
