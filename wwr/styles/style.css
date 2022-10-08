@@ -13,6 +13,7 @@
 }
 nav a {
     text-align:center;
+    color:black
 }
 main section {
     text-align:center;
@@ -29,9 +30,11 @@ header {
 }
 nav a:hover {
     background-color: #cae9ff;
+    color:805024
 }
 .book, .join {
     background-color: #62b6cb;
+    color: #331D09
 }
 .book:hover, join:hover {
     background-color: #62b6cb;
@@ -41,4 +44,23 @@ nav a:hover {
 }
 footer { 
     background-color: #CC9562;
+    color: white
+}
+.home-title {
+    color: #331D09;
+}
+h4 {
+    color: black;
+}
+msg h2 {
+    color: black;
+}
+.msg p {
+    color: black;
+}
+footer a {
+    color:#307080;
+}
+footer a:hover {
+    color: #cae9ff;
 }
