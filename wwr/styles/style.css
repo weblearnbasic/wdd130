@@ -51,6 +51,7 @@ nav a:hover {
     font-size: 18px;
     font-family: Mutka, Helvetica, sans-serif;
     padding: 15px 30px;
+    margin-top: 10px;
 }
 .book:hover, join:hover {
     background-color: #Cae9ff;
@@ -64,11 +65,13 @@ footer {
     background-color: #331D09;
     color: white;
     padding: 25px 50px;
+    margin-top: 200px;
 }
 .home-title {
     color: #ffffff;
     font-size: 2em;
     font-family: Black-Ops-One;
+    margin-top: 10px;
 }
 h4 {
     color: black;
@@ -102,6 +105,9 @@ footer a:hover {
 #hero-img {
     width: 100%;
 }
+.rivers-card, .camping-card, .rapids-card {
+    margin: 200px 0;
+}
 footer p {
     font-size: 1.2em;
 }
@@ -113,4 +119,5 @@ footer .social img {
 }
 header nav a {
     color:white;
+    font-size: 15px;
 }
