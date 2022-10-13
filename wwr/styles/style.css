@@ -55,6 +55,7 @@ nav a:hover {
 }
 .book:hover, join:hover {
     background-color: #Cae9ff;
+    padding-top: 5px;
 }
 .msg {
     background-color: #307080;
