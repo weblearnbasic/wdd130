@@ -13,10 +13,14 @@
 .button-box {
     text-align:center;
 }
+.icon {
+    padding-top: 10px;
+}
 nav a {
     text-align:center;
     color:black;
     text-decoration: none;
+    padding: 35px;
 }
 main section {
     text-align:center;
@@ -27,6 +31,10 @@ main section {
 }
 body {
     background-color: white;
+    font-family: Mutka, Helvetica, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
 }
 header {
     background-color: #307080;
@@ -42,6 +50,7 @@ nav a:hover {
     text-decoration: none;
     font-size: 18px;
     font-family: Mutka, Helvetica, sans-serif;
+    padding: 15px 30px;
 }
 .book:hover, join:hover {
     background-color: #Cae9ff;
@@ -49,11 +58,12 @@ nav a:hover {
 .msg {
     background-color: #62b6cb;
     line-height: 1.5em;
-
+    padding: 35px;
 }
 footer { 
     background-color: #331D09;
-    color: white
+    color: white;
+    padding: 25px 50px;
 }
 .home-title {
     color: #ffffff;
@@ -63,13 +73,15 @@ footer {
 h4 {
     color: black;
 }
-msg h2 {
+h2 {
     color: black;
+    margin: 0;
 }
 .msg p {
     color: black;
     font-size: .8em;
     font-family:Mutka, Helvetica, sans-serif;
+    padding-bottom: 15px;
 }
 footer a {
     color:black;
@@ -80,6 +92,9 @@ footer a:hover {
 }
 .logo {
     width: 80px;
+}
+#logo_link {
+    padding-top: 5px;
 }
 .icon {
     width: 80px;
@@ -92,6 +107,9 @@ footer p {
 }
 footer p a:hover {
     text-decoration: underline;
+}
+footer .social img {
+    padding-top: 15px;
 }
 header nav a {
     color:white;
