@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Mukta&display=swap');
+
 #content {
         max-width: 1600px;
         margin: 0 auto;
@@ -38,19 +40,25 @@ nav a:hover {
     background-color: #62b6cb;
     color: #331D09;
     text-decoration: none;
+    font-size: 18px;
+    font-family: Mutka, Helvetica, sans-serif;
 }
 .book:hover, join:hover {
     background-color: #Cae9ff;
 }
 .msg {
     background-color: #62b6cb;
+    line-height: 1.5em;
+
 }
 footer { 
-    background-color: #62b6cb;
+    background-color: #331D09;
     color: white
 }
 .home-title {
     color: #ffffff;
+    font-size: 2em;
+    font-family: Black-Ops-One;
 }
 h4 {
     color: black;
@@ -60,6 +68,8 @@ msg h2 {
 }
 .msg p {
     color: black;
+    font-size: .8em;
+    font-family:Mutka, Helvetica, sans-serif;
 }
 footer a {
     color:black;
