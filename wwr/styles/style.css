@@ -31,7 +31,7 @@ main section {
 }
 body {
     background-color: white;
-    font-family: "Bevan", cursive, Arial, Helvetica, sans-serif;
+    font-family: "Balsamiq Sans", cursive, Calistoga, Arbutus slab;
     font-size: 22px;
     margin: 0;
     padding: 0;
@@ -71,7 +71,7 @@ footer {
 .home-title {
     color: #ffffff;
     font-size: 2em;
-    font-family: "Balsamic Sans", cursive, Calistoga, Arbutus slab;
+    font-family: "Balsamiq Sans", cursive, Calistoga, Arbutus slab;
     margin-top: 10px;
 }
 h4 {
