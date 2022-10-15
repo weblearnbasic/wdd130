@@ -55,7 +55,7 @@ nav a:hover {
     color: #331D09;
     text-decoration: none;
     font-size: 18px;
-    font-family: "Bevan", cursive, Arial, Helvetica, sans-serif;
+    font-family: "Bevan", "cursive", Arial, Helvetica, sans-serif;
     padding: 15px 30px;
     margin-top: 50px;
     border-radius: 5px;
@@ -78,9 +78,9 @@ footer {
     font-family:"Bevan", "cursive", Arial, Helvetica, sans-serif;
 }
 .home-title {
-    color: #ffffff;
+    color: #307080;
     font-size: 2em;
-    font-family: "Bevan", "cursive", Arial, Helvetica, sans-serif;
+    font-family:"Balsamiq Sans", "cursive", "Calistoga", "Arbutus slab";
     margin-top: 10px;
 }
 h4 {
