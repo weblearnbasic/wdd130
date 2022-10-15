@@ -76,7 +76,7 @@ footer {
 .home-title {
     color: #ffffff;
     font-size: 2em;
-    font-family: "Balsamiq Sans", cursive, Calistoga, Arbutus slab;
+    font-family: "Bevan", cursive, Arial, Helvetica, sans-serif;
     margin-top: 10px;
 }
 h4 {
@@ -89,7 +89,7 @@ h2 {
 .msg p {
     color: black;
     font-size: .8em;
-    font-family: "Bevan", cursive, Helvetica, sans-serif;
+    font-family:"Balsamiq Sans", cursive, Calistoga, Arbutus slab;
     padding-bottom: 15px;
 }
 footer a {
