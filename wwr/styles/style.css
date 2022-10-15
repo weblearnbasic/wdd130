@@ -25,6 +25,9 @@ nav a {
 main section {
     text-align:center;
 }
+main section img {
+    box-sizing: border-box;
+}
 #background {
     height: 725px;
     background-color: #CC9562;
@@ -38,11 +41,12 @@ body {
 }
 header {
     background-color: #307080;
-    color:white
+    color:white;
 }
 nav a:hover {
     background-color: #cae9ff;
-    color:#805024
+    color:#805024;
+    padding: 15px 30px;
 }
 .book, .join {
     background-color: #62b6cb;
@@ -51,7 +55,8 @@ nav a:hover {
     font-size: 18px;
     font-family: "Bevan", cursive, Arial, Helvetica, sans-serif;
     padding: 15px 30px;
-    margin-top: 10px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 .book:hover, join:hover {
     background-color: #Cae9ff;
@@ -105,6 +110,9 @@ footer a:hover {
 }
 #hero-img {
     width: 100%;
+}
+.card-img {
+    border: 10px solid #000000;
 }
 .rivers-card, .camping-card, .rapids-card {
     margin: 200px 0;
