@@ -65,7 +65,7 @@
   grid-column-gap: 10px;
 }
 .red3 {
-  width: 100%; 
+  width: 50%; 
   height: 100px; 
   background-color: red;
   grid-column: 1/3; 
@@ -77,15 +77,15 @@
 } 
 .yellow3 {
   width: 100px; 
-  height: 200%; 
+  height: 100px; 
   background-color: gold; 
 } 
 .blue3 {
-  width: 100%;
+  width: 50%;
   height: 100px; 
   background-color: blue;
   grid-column: 1/3;
-  margin-top: -20px;
+  margin-top: 50px;
 } 
 /* Activity 4 styles */ 
 .content4 {
