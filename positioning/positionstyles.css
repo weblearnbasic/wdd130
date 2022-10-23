@@ -66,7 +66,7 @@
   /* This is the parent of the activity 3 boxes. */
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-gap: 20px;
+  grid-column-gap:20px;
 }
 .red3 {
   width: 100%; 
@@ -76,12 +76,12 @@
 } 
 .green3 {
   width: 100%; 
-  height: 200px; 
+  height: 150px; 
   background-color: green;
 } 
 .yellow3 {
   width: 100%; 
-  height: 200px; 
+  height: 150px; 
   background-color: gold; 
 } 
 .blue3 {
