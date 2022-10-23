@@ -94,11 +94,11 @@
 .content4 {
   /* This is the parent of the activity 4 boxes. */
   height: 400px;
-  display:grid;
+  display:grid
 }
 .red4 {
-  width: 50%; 
-  height: 100px; 
+  width:50%; 
+  height:100px; 
   background-color: red;
   grid-row:100%; 
 } 
@@ -145,7 +145,7 @@
   height: 200px; 
   background-color: gold; 
   overflow-wrap: break-word;
-  font-size: .86em;
+  font-size: .71em;
   font-family:Georgia, 'Times New Roman', Times, serif;
 } 
 .blue5 {
