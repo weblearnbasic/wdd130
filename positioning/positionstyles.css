@@ -41,14 +41,12 @@
 .red2 {
   width: 100px; 
   height: 100px; 
-  background-color: red; 
-  grid-template-columns: 20%;
-  grid-template-rows: 20%;
+  background-color: red;
 } 
 .green2 { 
   width: 100px; 
   height: 100px; 
-  background-color: green; 
+  background-color: green;
 } 
 .yellow2 {
   width: 100px; 
@@ -63,6 +61,7 @@
 /* Activity 3 styles */ 
 .content3 {
   /* This is the parent of the activity 3 boxes. */
+  display:grid;
 }
 .red3 {
   width: 100px; 
@@ -139,6 +138,7 @@
 /* Activity 6 styles */ 
 .content6 {
   /* This is the parent of the activity 6 boxes. */
+  display: grid;
 }
 .red6 {
   width: 100px; 
