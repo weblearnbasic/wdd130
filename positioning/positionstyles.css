@@ -44,18 +44,22 @@
   width: 100px; 
   height: 100px; 
   background-color: green;
-  margin-top:-25px;
-  margin-left:75px;
+  margin-top:-50px;
+  margin-left:50px;
 } 
 .yellow2 {
   width: 100px; 
   height: 100px; 
-  background-color: gold; 
+  background-color: gold;
+  margin-top:-150px;
+  margin-left:150px;
 } 
 .blue2 {
   width: 100px; 
   height: 100px; 
   background-color: blue; 
+  margin-top:-250px;
+  margin-left:-250px;
 } 
 /* Activity 3 styles */ 
 .content3 {
