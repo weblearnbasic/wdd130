@@ -112,9 +112,9 @@ footer {
     align-items: center;
 }
 .home-title {
-    color: #000000;
+    color: #ffffff;
     font-size: 2em;
-    font-family:"Balsamiq Sans", "cursive", "Calistoga", "Arbutus slab";
+    font-family:"Bevan", "cursive", Arial, Helvetica, sans-serif;
     margin-top: 10px;
 }
 #home-grid {
