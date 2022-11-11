@@ -196,6 +196,10 @@ header nav a {
     color:white;
     font-size: 15px;
 }
+.riverspage {
+    font-size: 1em;
+    grid-template-columns: 20px 20px 20px 20px 20px;
+}
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
