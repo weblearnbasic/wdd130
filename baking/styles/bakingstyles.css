@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@700&family=BioRhyme:wght@300&family=Gabriela&display=swap');
+
+section {
+    display: grid;
+}
+h1 {
+    text-align:center;
+}
+.memories {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
