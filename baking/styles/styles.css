@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@700&family=BioRhyme:wght@300&family=Gabriela&display=swap');
+
+body {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+header {
+    display: grid;
+    grid-template-columns: 150px auto;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+nav a {
+    text-align:center;
+    color:black;
+    text-decoration: none;
+    padding: 35px;
+}
+.logo {
+    width: 80px;
+}
+#logo_link {
+    padding-top: 5px;
+    justify-self: center;
+    align-self: center;
+}
+h1 {
+    text-align:center;
+}
+.memories {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
