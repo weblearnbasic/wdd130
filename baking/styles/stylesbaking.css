@@ -73,8 +73,8 @@ hr {
 }
 .memories {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 20px 20px 20px 20px 20px;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: .1fr .5fr .5fr .5fr;
 }
 img {
     justify-content: left;
@@ -92,6 +92,7 @@ img {
     margin-left: 150px;
     grid-column-end: 1;
     grid-row-start: 3;
+    margin-bottom: 0;
 }
 .anni {
     width:300px;
@@ -103,18 +104,24 @@ img {
     text-align: center;
     padding-top: 30px;
     font-size: 30px;
+    margin-left: -5px;
 }
 .celebrate {
     grid-row-start: 3;
-    grid-column-start: 2;
-    margin-top: 70px;
-    padding-right: 200px;
+    grid-column-start: 50%;
+    margin-top: 30px;
+    padding-right: 100px;
+    padding-left: 200px;
+    margin-left: 50px;
+    text-align: center;
 }
 .button {
     grid-row-start: 4;
+    grid-column-start: 50%;
     margin-top:100px;
-    margin-right:500px;
+    margin-right:300px;
     margin-bottom:100px;
+    margin-left: 100px;
     border-radius: 5px;
     background-color: #4C1E4F;
     text-align: center;
