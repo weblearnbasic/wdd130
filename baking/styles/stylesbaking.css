@@ -16,7 +16,7 @@ nav {
 }
 nav a {
     text-align:center;
-    color:black;
+    color:white;
     text-decoration: none;
     padding: 35px;
 }
@@ -110,19 +110,20 @@ img {
     grid-column-start: 2;
     margin-top: 70px;
     padding-right: 200px;
-    background-color:
 }
-.button-box {
+.button {
     grid-row-start: 4;
     margin-top:100px;
     margin-right:500px;
     margin-bottom:100px;
     border-radius: 5px;
-    text-decoration: none;
     background-color: #4C1E4F;
-    color: white;
     text-align: center;
-    font-size: 1.5em;
+    font-size: 1em;
+}
+.gallery {
+    color: white;
+    text-decoration: none;
 }
 .online {
     margin-top: 30px;
@@ -135,7 +136,7 @@ footer .social img {
     padding-top: 15px;
 }
 footer a {
-    color:black;
+    color:white;
     text-decoration: none;
 }
 footer a:hover {
