@@ -35,3 +35,18 @@
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
   }
+  .gal {
+    width: 100%;
+    height: 100%;
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    font-size: 3em;
+    color: white;
+  }
+  h1 {
+    font-size: 3em;
+  }
