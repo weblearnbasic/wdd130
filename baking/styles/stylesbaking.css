@@ -66,7 +66,6 @@ p {
     text-align: center;
     font-family:"BioRhyme, Helvetica, sans-serif";
     font-size: 20px;
-
 }
 hr {
     margin-top: 50px;
@@ -163,7 +162,7 @@ footer {
 .gal {
     display: grid;
     grid-template-columns: 200px 300px 300px 300px 200px;
-    grid-template-rows: 100px 100px 100px 100px 300px;
+    grid-template-rows: 100px 100px 100px 100px 200px 300px;
 }
 .cup {
     grid-column-start:2;
@@ -178,7 +177,6 @@ footer {
     grid-column-end:4;
     grid-row-start:3;
     grid-row-end: 5;
-    margin-left:20px;
     width: 300px;
     height: 200px;
 }
@@ -187,7 +185,6 @@ footer {
     grid-column-end:5;
     grid-row-start:3;
     grid-row-end: 5;
-    margin-left:20px;
     width: 300px;
     height: 200px;
 }
@@ -195,12 +192,36 @@ footer {
     margin-top: 300px;
 }
 .button2 {
-    margin-top:50px;
-    margin-right:300px;
-    margin-bottom:100px;
-    margin-left: 100px;
     border-radius: 5px;
     background-color: #4C1E4F;
     text-align: center;
     font-size: 25px;
+    grid-row-start:5;
+    grid-row-end: 6;
+    margin-top:10px;
+    margin-left:10px;
+    margin-right:10px;
+}
+.unique {
+    grid-row-start:6;
+    grid-row-end: 7;
+    grid-column-start: ;
+}
+.custo {
+    color:white;
+    text-decoration: none;
+    grid-column-start:2;
+    grid-column-end: 3;
+}
+.cheese {
+    color:white;
+    text-decoration: none;
+    grid-column-start:3;
+    grid-column-end: 4;
+}
+.event {
+    color:white;
+    text-decoration: none;
+    grid-column-start:4;
+    grid-column-end: 5;
 }
