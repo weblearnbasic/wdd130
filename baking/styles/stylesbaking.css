@@ -205,3 +205,72 @@ nav a:hover {
     background-color: #4C1E4F;
     color:#FA7E61;
 }
+.food {
+    display:grid;
+    grid-template-columns: 25% 25% 50%;
+    grid-template-rows: 25% 25% 10%;
+}
+.table {
+    display:grid;
+    grid-template-columns: 50% 50%;
+}
+.cus {
+    grid-column-start: 0;
+    grid-column-end: 50%;
+    margin-top: 30px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.cat {
+    grid-column-start: 50%;
+    grid-column-end: 100%;
+    margin-top: 130px;
+    margin-right: 30px;
+    margin-bottom: 90px;
+    background-color: #0fa3b1;
+    padding:30px;
+    padding-top:60px;
+    border-radius: 10px;
+}
+.ccc {
+    width:300px;
+    height:400px;
+    grid-column-start:0;
+    grid-column-end: 100px;
+    grid-row-start:0;
+    grid-row-end:100px;
+    margin-left: 50px;
+}
+.cin {
+    width:300px;
+    height:400px;
+    grid-column-start:2;
+    grid-column-end: 3;
+    grid-row-start:2;
+    grid-row-end:3;
+    margin-top: 20px;
+    margin-left: -50px;
+}
+.bbb {
+    border-radius: 10px;
+    background-color: #0fa3b1;
+    padding:30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    margin-bottom: -20px;
+}
+.button2 {
+    margin-right:600px;
+    margin-left: 600px;
+    margin-top:-150px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    background-color: #4C1E4F;
+    text-align: center;
+    font-size: 25px;
+}
